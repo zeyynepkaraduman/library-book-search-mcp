@@ -1,7 +1,7 @@
 startCommand:
   type: stdio
   command: python
-  args: ["-m", "server"]
+  args: ["server.py"]
 configSchema:
   type: object
   properties:
