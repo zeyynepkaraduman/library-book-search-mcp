@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kütüphane Kitap Arama MCP
 
 Bu MCP (Model Context Protocol) servisi, Google Books API kullanarak kitap arama işlevselliği sağlar. Smithery platformunda deploy edilebilir ve çeşitli AI uygulamalarıyla entegre edilebilir.
@@ -148,3 +149,6 @@ MIT Lisansı ile lisanslanmıştır.
 ## İletişim
 
 Sorularınız için issue açabilirsiniz. 
+=======
+# library-book-search-mcp
+>>>>>>> 0d448af03999462217d1fe225dd31fd8853d5478
