@@ -1,0 +1,22 @@
+startCommand:
+  type: stdio
+  configSchema:
+    # JSON Schema defining the configuration options for the MCP.
+    type: object
+    properties:
+      default_language:
+        type: string
+        description: "Varsayılan arama dili (tr, en, fr, de vb.)"
+        default: "tr"
+      max_results_limit:
+        type: integer
+        description: "Maksimum sonuç limiti"
+        default: 20
+        minimum: 1
+        maximum: 40
+  commandFunction:
+    |-
+    (config) => ({ command: 'python', args: ['-m', 'server'] })
+  exampleConfig:
+    default_language: "tr"
+    max_results_limit: 20
