@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zeyynepkaraduman-library-book-search-mcp-badge.png)](https://mseep.ai/app/zeyynepkaraduman-library-book-search-mcp)
+
 <<<<<<< HEAD
 # Kütüphane Kitap Arama MCP
 
